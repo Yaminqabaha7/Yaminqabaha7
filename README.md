@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://twitter.com/eng_yaminqabaha" target="blank">
+  <a href="https://twitter.com/eng_yaminqabaha" target="-blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/yamin-qabaha-4328a2346" target="blank">
