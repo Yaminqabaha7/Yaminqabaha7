@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yamin Qabaha</h1>
 <h3 align="center">Computer Engineering Student</h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
