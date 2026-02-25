@@ -7,7 +7,7 @@ Front-End Web Developer
 I’m a creative Web Developer who loves building modern websites and interfaces. I focus on writing clean code, designing smooth user experiences, and continuously improving my skills to stay up to date with the latest web technologies
 
 * 🌍  I'm based in Palestine
-* 🖥️  See my portfolio at [linkedin](http://https://www.linkedin.com/in/yaminqabaha7/)
+* 🖥️  See my portfolio at [Portfolio](https://yaminqabaha7.github.io/Yamin-Portfolio/)
 * ✉️  You can contact me at [yaminrehan15@gmail.com](mailto:yaminrehan15@gmail.com)
 * 🧠  I'm currently learning BackEnd Develober
 
